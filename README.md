@@ -2,6 +2,8 @@
 
 <h3>Привет</h3>
 <h4>Смотри, что можно сделать с помощью этого приложения</h4>
+[протестировать](https://wysiwyg-vue-page.web.app/)
+
 
 ![wysiwyg](./src/assets/README.md/screen1.jpg)
 
