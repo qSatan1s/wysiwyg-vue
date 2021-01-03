@@ -3,8 +3,6 @@
 <h3>Привет</h3>
 <h4>Смотри, что можно сделать с помощью этого приложения</h4>
 
-# ![Image alt](./src/assets/README.md/screen1.jpg)
-
 ![wysiwyg](./src/assets/README.md/screen1.jpg)
 
 ## Project setup
