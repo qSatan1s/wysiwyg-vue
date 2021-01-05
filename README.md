@@ -1,7 +1,7 @@
 # wysiwyg
 
 <h4>Смотри, что можно сделать с помощью этого приложения</h4>
-[Протестировать сайт](https://wysiwyg-vue-page.web.app/ "wysiwyg test")
+[Протестировать сайт](https://wysiwyg-vue-page.web.app "wysiwyg test")
 
 
 ![wysiwyg](./src/assets/README.md/screen1.jpg)
